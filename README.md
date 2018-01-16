@@ -1,4 +1,4 @@
-# chrones
+# thrones
 
 ## 一. 系统整体架构
 
